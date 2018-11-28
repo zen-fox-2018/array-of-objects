@@ -1,7 +1,7 @@
 var arr = []
 
 function createObj(name , phase , gender) {
-  let obj = new Object
+  let obj = new Object()
   obj.name = name
   obj.phase = phase
   obj.gender = gender
